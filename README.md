@@ -1,4 +1,4 @@
-以下是我整理的android开发程序员常用网站，借鉴了许多大神的推荐，希望的大家都来补充完善，让我们开发者成为一家人，我们是一群相亲相爱的安卓程序员
+以下是我整理的android开发程序员常用网站，借鉴了许多大神的推荐，希望的大家都来补充完善，让我们的开发变得更加方便有趣，我们是一群相亲相爱的安卓程序员
 
 *  常用网站
 
@@ -106,5 +106,5 @@
 |[友盟](http://www.umeng.com/)|友盟|[ShareSdk](http://www.mob.com/)|ShareSdk|[微信开发平台](https://open.weixin.qq.com/)|傻逼腾讯|
 |[豌豆荚](http://developer.wandoujia.com/)|豌豆荚|[高德地图API](http://lbs.amap.com/)|高德地图|[百度地图API](http://lbsyun.baidu.com/")|百度地图|
 
-> 中高级android开发群
+> 中高级android开发群 欢迎大家加群交流，一起提高
 QQ:332840500 （一年以下开发经验请自行绕道，真心讨论技术请进）
