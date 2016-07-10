@@ -5,7 +5,7 @@
 
 | 名称  |描述   | 名称  |描述| 名称  |描述|
 | :-----: |:----:| :------:| :--------:| :----------:| :----------:|
-|[Google](https://www.google.com/)|要梯子|[百度](https://www.baidu.com/)|搜索|[GitHub](https://github.com//)|开源社区|
+|[Google](https://g.wxbit.com/)|直接访问|[百度](https://www.baidu.com/)|搜索|[GitHub](https://github.com//)|开源社区|
 |[stackoverflow](http://stackoverflow.com/)|问答社区|[segmentfault](https://segmentfault.com/t/android)|问答社区|[V2ex](http://www.v2ex.com/go/android/)|问答社区|
 |[developer](http://developer.android.com/)|安卓官方|[androidchina](http://www.androidchina.net/)|安卓中国|[androiddevtools](http://www.androiddevtools.cn/)|民间合集|
 |[开源中国](http://www.oschina.net/)|开源中国|[csdn](http://www.csdn.net/)|交流平台|[GitHub](https://github.com//)|开源社区|
