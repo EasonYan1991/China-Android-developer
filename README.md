@@ -107,4 +107,4 @@
 |[豌豆荚](http://developer.wandoujia.com/)|豌豆荚|[高德地图API](http://lbs.amap.com/)|高德地图|[百度地图API](http://lbsyun.baidu.com/")|百度地图|
 
 > 中高级android开发群 欢迎大家加群交流，一起提高
-QQ:332840500 （一年以下开发经验请自行绕道，真心讨论技术请进）
+> QQ:332840500 （非开发人员勿扰）
