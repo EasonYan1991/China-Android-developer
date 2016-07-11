@@ -8,10 +8,9 @@
 |[Google](https://g.wxbit.com/)|直接访问|[百度](https://www.baidu.com/)|搜索|[GitHub](https://github.com//)|开源社区|
 |[stackoverflow](http://stackoverflow.com/)|问答社区|[segmentfault](https://segmentfault.com/t/android)|问答社区|[V2ex](http://www.v2ex.com/go/android/)|问答社区|
 |[developer](http://developer.android.com/)|安卓官方|[androidchina](http://www.androidchina.net/)|安卓中国|[androiddevtools](http://www.androiddevtools.cn/)|民间合集|
-|[开源中国](http://www.oschina.net/)|开源中国|[csdn](http://www.csdn.net/)|交流平台|[GitHub](https://github.com//)|开源社区|
+|[开源中国](http://www.oschina.net/)|开源中国|[csdn](http://www.csdn.net/)|交流平台|[AndroidArsenal](http://www.android-arsenal.com/)|demo集中营|
 |[中文API](http://android-doc.com/)|中文API|[技术前线](http://www.devtf.cn/)|社区|[material-design](http://wiki.jikexueyuan.com/project/material-design/)|中文文档|
-|[干货集中营](http://gank.io)|社区|[DiyCode](http://diycode.cc/)|交流平台|[AndroidArsenal](http://www.android-arsenal.com/)|demo集中营|
-|[美女写真](http://www.kaka12345.net/)|撸码神器|
+|[干货集中营](http://gank.io)|社区|[DiyCode](http://diycode.cc/)|交流平台|[美女写真](http://www.kaka12345.net/)|撸码神器|
 
 ***
 *  常用工具
@@ -31,7 +30,7 @@
 | 名称  |描述   | 名称  |描述| 名称  |描述|
 | :-----: |:----:| :------:| :--------:| :----------:| :----------:|
 |[AS下载](https://developer.android.com/studio/index.html)|官方提供|[AS下载](http://www.android-studio.org/index.php/download)|汉化组提供|[AS下载](http://www.androiddevtools.cn/)|民间提供|
-|[AS 问答](http://ask.android-studio.org/?/explore/)|汉化组问答|[Gradle文档](http://rinvay.github.io/android/2015/03/26/Gradle-Plugin-User-Guide%28Translation%29/#102)|用户指南|[genymotion](https://www.genymotion.com/)|genymotion官网|
+|[AS问答](http://ask.android-studio.org/?/explore/)|汉化组问答|[Gradle文档](http://rinvay.github.io/android/2015/03/26/Gradle-Plugin-User-Guide%28Translation%29/#102)|用户指南|[genymotion](https://www.genymotion.com/)|genymotion官网|
 |[AS教程](http://www.open-open.com/lib/view/open1433387390635.html)|入门教程|
 
 ***
