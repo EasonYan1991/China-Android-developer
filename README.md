@@ -93,9 +93,9 @@
 
 | 名称  |描述   | 名称  |描述| 名称  |描述|
 | :-----: |:----:| :------:| :--------:| :----------:| :----------:|
-|[装逼图片](http://www.zhuangbi.info)|装逼图片|[装逼宝典](http://www.bibb.cn)|装逼宝典|[撩妹秘籍](http://www.lovepua.com)|撩妹秘籍|
-|[注意颈椎](http://zhidao.baidu.com/s/daily/2013-11-24/1387540950.html)|注意颈椎|[恋爱学院](http://www.lovepua.com)|恋爱学院|[糗百](http://www.qiushibaike.com/)|糗事百科|
-|[别忘锻炼](http://www.muscles.com.cn)|别忘锻炼|
+|[装逼图片](http://www.zhuangbi.info)|装逼图片|[装逼宝典](http://www.bibb.cn)|装逼宝典|[泡学网](http://paoxue.com/)|撩妹秘籍|
+|[颈椎](http://zhidao.baidu.com/s/daily/2013-11-24/1387540950.html)|预防颈椎病|[恋爱学院](http://www.lovepua.com)|恋爱学院|[糗百](http://www.qiushibaike.com/)|糗事百科|
+|[肌肉](http://www.muscles.com.cn)|多多锻炼|
 
 ***
 *  开发平台
