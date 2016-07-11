@@ -41,7 +41,7 @@
 |[郭霖](http://blog.csdn.net/guolin_blog)|郭霖大神|[鸿洋](http://blog.csdn.net/lmj623565791)|鸿洋大神|[泡在网上的日子](http://www.jcodecraeer.com/)|博客之星|
 |[农民伯伯](http://www.cnblogs.com/over140/)|博客之星|[江清清](http://www.lcode.org/)|RN相关|[徐宜生](http://blog.csdn.net/eclipsexys/)|博客之星|
 |[张兴业](http://blog.csdn.net/xyz_lmn)|博客之星|[咪当我系欧巴](http://blog.csdn.net/hellogv)|大神|[trinea](http://www.trinea.cn/)|大神|
-|[foruok](http://blog.csdn.net/foruo)|职业规划|[夏安明](http://blog.csdn.net/xiaanming)|博客之星|[罗升阳](http://blog.csdn.net/luoshengyang)|源码大神|
+|[foruok](http://geek.csdn.net/user/publishlist/foruok)|职业规划|[夏安明](http://blog.csdn.net/xiaanming)|博客之星|[罗升阳](http://blog.csdn.net/luoshengyang)|源码大神|
 
 ***
 *  视频学习
